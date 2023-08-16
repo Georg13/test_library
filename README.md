@@ -2,6 +2,9 @@
 Practical work. Mini library of scripts.
 
 <i>use of technology GULP, Javascript, SASS</i>
+
+<a href="https://geokav.ru/demo/test_library/">DEMO</a>
+<hr>
 <h3>Structure</h3>
 
 <p>1 <b>main.js</b></p>
