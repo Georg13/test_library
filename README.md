@@ -10,7 +10,7 @@ Practical work. Mini library of scripts.
 <p>1 <b>main.js</b></p>
 <p>2 <b>core.js</b> - library core</p>
 
-    - implemented access to page elements when using the <b>$</b> symbol
+    - implemented access to page elements when using the $ symbol
     - creating a prototype object
     - the ability to assign properties and methods to an object
     
